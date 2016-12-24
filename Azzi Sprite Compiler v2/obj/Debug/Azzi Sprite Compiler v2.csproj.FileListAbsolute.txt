@@ -1,0 +1,20 @@
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\bin\Debug\Azzi Sprite Decompiler.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\bin\Debug\Azzi Sprite Decompiler.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi_Sprite_Compiler_v2.Main.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi_Sprite_Compiler_v2.Properties.Resources.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi_Sprite_Compiler_v2.Sobre.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi Sprite Compiler v2.csproj.GenerateResource.Cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi Sprite Decompiler.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi Sprite Decompiler.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler v2\Azzi Sprite Compiler v2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler v2\Azzi Sprite Compiler v2\obj\Debug\Azzi_Sprite_Compiler_v2.Main.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler v2\Azzi Sprite Compiler v2\obj\Debug\Azzi_Sprite_Compiler_v2.Properties.Resources.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler v2\Azzi Sprite Compiler v2\obj\Debug\Azzi_Sprite_Compiler_v2.Sobre.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler v2\Azzi Sprite Compiler v2\obj\Debug\Azzi Sprite Compiler v2.csproj.GenerateResource.Cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler v2\Azzi Sprite Compiler v2\bin\Debug\Azzi Sprite Compiler v2.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler v2\Azzi Sprite Compiler v2\bin\Debug\Azzi Sprite Compiler v2.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler v2\Azzi Sprite Compiler v2\obj\Debug\Azzi Sprite Compiler v2.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Compiler v2\Azzi Sprite Compiler v2\obj\Debug\Azzi Sprite Compiler v2.pdb
+C:\Users\Azzi\Desktop\RICARDO\Projects\Projects\Azzi Sprite Compiler v2\Azzi Sprite Compiler v2\obj\Debug\Azzi Sprite Compiler v2.exe
+C:\Users\Azzi\Desktop\RICARDO\Projects\Projects\Azzi Sprite Compiler v2\Azzi Sprite Compiler v2\obj\Debug\Azzi Sprite Compiler v2.pdb

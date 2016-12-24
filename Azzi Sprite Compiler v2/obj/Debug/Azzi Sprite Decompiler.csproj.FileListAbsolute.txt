@@ -1,0 +1,17 @@
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Decompiler\bin\Debug\Azzi Sprite Decompiler.exe
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Decompiler\bin\Debug\Azzi Sprite Decompiler.pdb
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Decompiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Decompiler\obj\Debug\Azzi_Sprite_Decompiler.Form1.resources
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Decompiler\obj\Debug\Azzi_Sprite_Decompiler.Properties.Resources.resources
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Decompiler\obj\Debug\Azzi Sprite Decompiler.csproj.GenerateResource.Cache
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Decompiler\obj\Debug\Azzi Sprite Decompiler.exe
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Decompiler\obj\Debug\Azzi Sprite Decompiler.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi Sprite Decompiler.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi Sprite Decompiler.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi_Sprite_Decompiler.Main.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi_Sprite_Decompiler.Properties.Resources.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi_Sprite_Decompiler.Sobre.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\obj\Debug\Azzi Sprite Decompiler.csproj.GenerateResource.Cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\bin\Debug\Azzi Sprite Decompiler.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Decompiler\Azzi Sprite Decompiler\bin\Debug\Azzi Sprite Decompiler.pdb
