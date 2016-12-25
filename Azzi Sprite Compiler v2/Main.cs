@@ -318,7 +318,7 @@ namespace Azzi_Sprite_Compiler_v2
 
         private void Donate_Click(object sender, EventArgs e)
         {
-            Process.Start("http://pibipiranga.com.br/personal/donation.html");
+            Process.Start("javascript:alert('ops')");
         }
         #endregion
         #region botão de extração de sprites
